@@ -1,0 +1,49 @@
+.bg-item {
+    background-color: #FF111328;
+    height: 130px;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.icon-sex {
+    font-size: 40px;
+}
+
+.style-number {
+    font-size: 32px;
+    font-weight: 800;
+    margin-top: -25px;
+}
+
+.style-cm {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.form-range {
+    padding: 0 20px;
+}
+
+.form-range::-moz-range-thumb {
+    background-color: #ff3366;
+}
+
+.form-range:focus::-moz-range-thumb {
+    box-shadow: 0 0 0 1px #fff,0 0 0 .25rem rgba(255,51,102,.25);
+}
+
+.icon-bg {
+    cursor: pointer;
+    background-color: #ff4c4f5e;
+    padding: 7px;
+    border-radius: 15px;
+    margin: 0 3px;
+}
+
+.c-pointer {
+    cursor: pointer;
+}
+
+.c-disabled {
+    background-color: #7d2f2f33;
+}
